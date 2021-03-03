@@ -72,7 +72,7 @@ public class main implements ActionListener {
       panel.add(kids);//Number of kids
       panel.add(button);//Total price
       panel.add(total);
-      
+
 
 
 
